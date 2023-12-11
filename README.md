@@ -1,2 +1,1 @@
-# boilerplate
-Basic HTML and CSS setup for simple web design
+https://calebjohnson.netlify.app/
